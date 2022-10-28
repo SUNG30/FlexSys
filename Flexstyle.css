@@ -1,0 +1,51 @@
+
+/*footer{
+    display:flex;
+    flex-direction: column;
+    
+    
+}
+*/
+#section1{
+    display:flex;
+    justify-content: space-between;
+}
+#section2{
+    display:flex;
+    justify-content: space-between;
+    margin-top:33.8%
+}
+body{
+    display:flex;
+    flex-direction: column;
+
+    
+
+
+} 
+#box1{
+    border: 1px solid black;
+    width: 100px;
+    height:100px;
+    
+}
+#box3{
+    
+    border: 1px solid red;
+    width: 100px;
+    height:100px;
+    
+}
+#box2{
+    border: 1px solid green;
+    width: 100px;
+    height:100px;
+
+}
+#box4{
+    border: 1px solid blue;
+    width: 100px;
+    height:100px;
+ 
+}
+
